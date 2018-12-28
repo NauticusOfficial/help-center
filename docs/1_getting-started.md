@@ -112,7 +112,7 @@ Notes:
 Under Australian law a “Sole Trader” is an individual who runs a business (*‘trading’ in this sense does not refer to crypto trading*).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
 
 
-5. Next up is a series of KYC/AML required questions. Fill them out as honestly as you can.
+5. Next up is a series of KYC/AML required questions. Fill them out as accurately as you can.
 
 ![KYC-4](https://nauticus.exchange/help/images/Exchange/KYC-4.png)
 
@@ -126,7 +126,7 @@ Under Australian law a “Sole Trader” is an individual who runs a business (*
 ![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
 
 
-6. Finally, you’ll end up at the following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. Driver License is the next best choice. Government  issued ID cards in languages "other than English" should be selected as a last resort.
+6. Finally, you’ll end up at the following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. Driver's Licence is the next best choice. Government  issued ID cards in languages "other than English" should be selected as a last resort.
 
 ![KYC-8](https://nauticus.exchange/help/images/Exchange/KYC-8.png)
 
