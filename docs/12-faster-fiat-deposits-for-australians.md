@@ -3,6 +3,10 @@ title: 12. Faster Fiat Deposits for Australian Consumers
 ---
 ## Faster Fiat Deposits for Australian Customers
 
+
+
+![Nauticus PayID](https://nauticus.exchange/help/images/nauticus-payid-v2.jpg)
+
 \
 Australian customers can now use the Pay ID / Osko system to transfer money into Nauticus Exchange.
 
