@@ -4,6 +4,24 @@ title: 2. Making Deposits
 
 # Deposit FIAT
 
+## Sending from Australia
+
+If you have an Australian Bank Account you will need to login to your own bank's website, or app, in order to transfer money into Nauticus Exchange. Each bank's interface is slightly different but they all offer similar functionality. 
+
+If you've ever transferred money to a friend before, it is the exact same process.
+
+On the Commonwealth Bank's NetBank for example you would follow these steps:
+
+* Select Transfers and Bpay 
+* Select the account from which you would like to transfer the funds
+* Select New Payee.
+* Enter the Account Name
+* Enter the BSB
+* Enter the Account Number
+* Enter the amount you wish to transfer
+* Enter the Unique Deposit Code
+
+
 
 ## Deposit via PAY ID / OSKO
 
@@ -111,24 +129,6 @@ _Payments from credit card accounts are not supported._
 _Third parties are not allowed to transfer funds to your account. Only send money from a bank account that is in your own name._
 
 **For more information please see the Terms and Conditions below.**
-
-### 2. Sending from Australia
-
-If you have an Australian Bank Account you will need to login to your own bank's website, or app, in order to transfer money into Nauticus Exchange. Each bank's interface is slightly different but they all offer similar functionality. 
-
-If you've ever transferred money to a friend before, it is the exact same process.
-
-On the Commonwealth Bank's NetBank for example you would follow these steps:
-
-* Select Transfers and Bpay 
-* Select the account from which you would like to transfer the funds
-* Select New Payee.
-* Enter the Account Name
-* Enter the BSB
-* Enter the Account Number
-* Enter the amount you wish to transfer
-* Enter the Unique Deposit Code
-
 
 
 # Deposit Crypto
