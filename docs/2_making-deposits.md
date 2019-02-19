@@ -19,7 +19,7 @@ The money will be credited to your account within 24 hours – seven days a week
 
 The system will be refined further in future to enable even faster transfers.
 
-## WHAT IS PAY ID / OSKO?
+## What is PAY ID / OSKO?
 
 Osko is the new fast payments service that allows users to send and receive money almost instantly, at any time.
 
@@ -29,7 +29,7 @@ More than 60 Aussie banks – including ‘the Big 4’ – support the service.
 
 It only takes a couple of minutes to set up and you’re ready to roll.
 
-## HOW DO I USE PAYID / OSKO TO FUND MY NAUTICUS ACCOUNT?
+## How do I use PAYID / OSKO to fund my Nauticus Account?
 
 Every bank does things slightly differently, so it’s worth reading up on how to use Pay ID with your bank’s website or app. There are links to further information below.
 
@@ -45,7 +45,7 @@ Hit Pay or Send.
 
 That’s it. Within 24 hours, the money will be credited to your account.
 
-## BANK SPECIFIC INFO
+## Bank Specific Info
 
 For more information on how to create a PayID, please click one of the links below
 
