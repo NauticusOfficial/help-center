@@ -131,7 +131,7 @@ On the Commonwealth Bank's NetBank for example you would follow these steps:
 
 
 
-## Deposit Crypto
+# Deposit Crypto
 
 The exact steps for depositing crypto assets will vary depending on which coin you are depositing and which wallet you are using. We recommend that you research the current best security practices when considering your choice of wallet and storage of your secret keys, passwords, "seed phrase" etc.
 
