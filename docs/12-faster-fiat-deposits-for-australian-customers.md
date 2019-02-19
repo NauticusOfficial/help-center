@@ -1,5 +1,5 @@
 ---
-title: 12.Faster Fiat Deposits for Australian Customers
+title: 12. Faster Fiat Deposits for Australian Customers
 ---
 ![null](/docs/.vuepress/dist/nauticus-payid-v2.jpg)
 
