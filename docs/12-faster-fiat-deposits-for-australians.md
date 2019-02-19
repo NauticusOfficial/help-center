@@ -1,5 +1,5 @@
 ---
-title: 12.Faster Fiat Deposits for Australians
+title: 12. Faster Fiat Deposits for Australian Consumers
 ---
 ## Faster Fiat Deposits for Australian Customers
 
