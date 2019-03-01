@@ -9,8 +9,6 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 2 - Click the blue “sign up” button in the top right corner. 
 
-_**WARNING: IF YOU ALREADY CREATED AN ACCOUNT DURING THE NAUTICUS ICO, PLEASE NAVIGATE TO "ICO Account Migration" BELOW. Otherwise we will not be able to automatically transfer your NTS balance to your exchange wallet.**_
-
 3 - Once you are directed to the following page, fill in your email address and secure password.
 
 ![Sign-Up.png](https://nauticus.exchange/help/images/Exchange/Sign-Up.png)
@@ -27,7 +25,7 @@ _**WARNING: IF YOU ALREADY CREATED AN ACCOUNT DURING THE NAUTICUS ICO, PLEASE NA
 
 ### Complete KYC
 
-_**Step by step guide to completing KYC on Nauticus Exchange**_
+**_Step by step guide to completing KYC on Nauticus Exchange_**
 
 Here’s what you need to do:
 
