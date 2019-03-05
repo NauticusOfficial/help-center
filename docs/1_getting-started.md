@@ -102,60 +102,39 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 ![KYC15](https://nauticus.exchange/help/images/Exchange/KYC15.png)
 
+16. Now we are presented with a review of the data entered and the chance to make any needed corrections before continuing.
 
+![KYC16](https://nauticus.exchange/help/images/Exchange/KYC16.png)
 
-![KYC-8](https://nauticus.exchange/help/images/Exchange/KYC-8.png)
+When everything looks correct please click to continue on to the image upload section.
 
-
-8. Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a Driver's License, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
+17. Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a Driver's License, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
 
 ![KYC-10](https://nauticus.exchange/help/images/Exchange/KYC-10.png)
 
-9. Once you have a nice photograph, upload it to your laptop and check  that it is under 5MB in file size. On a Mac, right click and select  ‘info’. On Windows right click and select ‘properties’. At this point,  check the box and proceed to the next screen.
+18. Once you have a nice photograph, upload it to your laptop and check  that it is under 5MB in file size. On a Mac, right click and select  ‘info’. On Windows right click and select ‘properties’. At this point,  check the box and proceed to the next screen.
 
 ![KYC-11](https://nauticus.exchange/help/images/Exchange/KYC-11.png)
 
-10. Now take your ‘selfie’ photo. There are tips on how to take a photo that will not be rejected by the system on this screen.
+19. Now take your ‘selfie’ photo. There are tips on how to take a photo that will not be rejected by the system on this screen.
 
 ![KYC-12](https://nauticus.exchange/help/images/Exchange/KYC-12.png)
 
-11. Upload the photo to the desktop and tick the box.
+20. Upload the photo to the desktop and tick the box.
 
 ![KYC-13](https://nauticus.exchange/help/images/Exchange/KYC-13.png)
 
-12. Now you get to double check your name and date of birth are correct.  This step is extremely important as one of the biggest reasons for  failing KYC is incorrectly writing out your name and date of birth.
-
-![KYC-14](https://nauticus.exchange/help/images/Exchange/KYC-14.png)
-
-13. After confirming once again you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
+21. After confirming once more that you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
 
 ![KYC-15](https://nauticus.exchange/help/images/Exchange/KYC-15.png)
 
-14. Please select your Country and the ID type that you will be uploading.
-
-Once  you have selected your country and document type, you will be asked  upload a copy of your ID documents (Driver’s License, Passport, ID  card).
-
-![KYC-16](https://nauticus.exchange/help/images/Exchange/KYC-16.png)
-
-![KYC-17](https://nauticus.exchange/help/images/Exchange/KYC-17.png)
-
-![KYC-18](https://nauticus.exchange/help/images/Exchange/KYC-18.png)
-
-15. Once you have uploaded your document, you will be taken to a page,  asking you to upload a picture of yourself holding a white piece of  paper with the word: **NTS** and today’s date written on it in the following format: **DD/MM/YYYY**.
-
-It is easiest to have someone else take this picture of you and then send it to you for uploading.
-
-![KYC-19](https://nauticus.exchange/help/images/Exchange/KYC-19.jpeg)
-
-![KYC-20](https://nauticus.exchange/help/images/Exchange/KYC-20.png)
-
-16. After the above steps have been completed, you will then land on a Submission Confirmation Page like this:
+22. After the images are uploaded and these steps are complete you will land on a Submission Confirmation Page like this:
 
 ![KYC-21](https://nauticus.exchange/help/images/Exchange/KYC-21.png)
 
-17. Congratulations, you’ve almost made it through! Whew!
+23. Congratulations, you’ve almost made it through! Whew!
 
-At this point, it is very important that you take a long walk or make yourself a cup of tea.
+At this point you may wish to take a quick walk or make yourself a cup of tea.
 
 **Please don’t try and log in to Nauticus again for five minutes while the system updates your verification status.**
 
