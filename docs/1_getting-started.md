@@ -25,12 +25,15 @@ To open up an account on Nauticus exchange, please complete the following steps:
 
 ### Complete KYC
 
-**_Step by step guide to completing KYC on Nauticus Exchange_**
+_**Step by step guide to completing KYC on Nauticus Exchange**_
 
 Here’s what you need to do:
 
-1. Sign into your account on a laptop or desktop PC and click on the Verify button. KYC is not yet enabled for mobile devices.
-2. Choose whether you want to be verified as an ‘Individual’ or as a  representative of a ‘Business’. If you select ‘Business’ you will need  to fill out a form and email it in. The rest of this guide only applies  if you select ‘Individual’.
+1. Sign into your account on a laptop or desktop PC and click on the Verify button. _(KYC is not yet enabled for mobile devices)_
+
+![](/docs/.vuepress/dist/kyc01b.png)
+
+1. Choose whether you want to be verified as an ‘Individual’ or as a  representative of a ‘Business’. If you select ‘Business’ you will need  to fill out a form and email it in. The rest of this guide only applies  if you select ‘Individual’.
 
 ![KYC-1](https://nauticus.exchange/help/images/Exchange/KYC-1.png)
 
