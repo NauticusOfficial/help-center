@@ -54,7 +54,11 @@ Notes:
 
 Under Australian law a “Sole Trader” is an individual who runs a business (_‘trading’ in this sense does not refer to crypto trading_).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
 
-5. Next up is a series of KYC/AML required questions. Fill them out as accurately as you can.
+5. Next please provide a reason for opening the account.
+
+   ![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
+
+6. Next up is a series of KYC/AML required questions. Fill them out as accurately as you can.
 
 ![KYC-4](https://nauticus.exchange/help/images/Exchange/KYC-4.png)
 
