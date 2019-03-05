@@ -90,7 +90,7 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 ![KYC12](https://nauticus.exchange/help/images/Exchange/KYC-12.png)
 
-13. Wehn your ID is ready please tick the box as shown in the next image and click to continue.
+13. When your ID is ready please tick the box as shown in the next image and click to continue.
 
 ![KYC13](https://nauticus.exchange/help/images/Exchange/KYC13.png)
 
