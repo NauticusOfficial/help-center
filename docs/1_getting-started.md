@@ -37,7 +37,7 @@ Here’s what you need to do:
 
 ![KYC02](https://nauticus.exchange/help/images/Exchange/KYC02.png)
 
-3. You’ll end up on this page. Please kindly fill out the information requested.
+3. You’ll then land on this page. Please kindly fill out the information requested.
 
 ![KYC03](https://nauticus.exchange/help/images/Exchange/KYC03.png)
 
@@ -45,12 +45,12 @@ Notes:
 
 * Fill in your Date of Birth in the Australian/UK format with the day first, and then the month.
 * If you don’t live in an apartment or unit, you can leave the ‘Unit’ number blank.
-* Fill in your **City** where it says “Suburb” (Suburb is an Australian address feature).
+* Fill in your **City** and where it says “City or Suburb” *(Suburb is an Australian address feature)*
 * If  you have an unusual address that doesn’t quite fit with the structure  of this form, please ensure you write down all of the relevant parts of  your address somewhere within the form. Our staff can fix it later as  long as your entire address is there somewhere.
 
 4. The next screen asks if you’re a “Sole Trader.”
 
-![KYC-3](https://nauticus.exchange/help/images/Exchange/KYC-3.png)
+![KYC04](https://nauticus.exchange/help/images/Exchange/KYC04.png)
 
 Under Australian law a “Sole Trader” is an individual who runs a business (_‘trading’ in this sense does not refer to crypto trading_).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
 
