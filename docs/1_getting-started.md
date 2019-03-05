@@ -60,19 +60,13 @@ Under Australian law a “Sole Trader” is an individual who runs a business (_
 
 ![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
 
-
-
-6.  In the next screen please indicate the source of your  funding.
+6.  In the next screen please indicate the source of your funding.
 
 ![KYC06](https://nauticus.exchange/help/images/Exchange/KYC06.png)
 
-
-
-7. The next screen will ask for your employment status.
+7. The next screen will ask you for your employment status.
 
 ![KYC07](https://nauticus.exchange/help/images/Exchange/KYC07.png)
-
-
 
 8. Next you will be asked to provide your primary country of citizenship.
 
