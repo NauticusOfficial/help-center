@@ -106,33 +106,19 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 ![KYC16](https://nauticus.exchange/help/images/Exchange/KYC16.png)
 
-When everything looks correct please click to continue on to the image upload section.
-
-17. Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a Driver's License, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
-
-![KYC-10](https://nauticus.exchange/help/images/Exchange/KYC-10.png)
-
-18. Once you have a nice photograph, upload it to your laptop and check  that it is under 5MB in file size. On a Mac, right click and select  ‘info’. On Windows right click and select ‘properties’. At this point,  check the box and proceed to the next screen.
-
-![KYC-11](https://nauticus.exchange/help/images/Exchange/KYC-11.png)
-
-19. Now take your ‘selfie’ photo. There are tips on how to take a photo that will not be rejected by the system on this screen.
-
-![KYC-12](https://nauticus.exchange/help/images/Exchange/KYC-12.png)
-
-20. Upload the photo to the desktop and tick the box.
+When everything looks correct please click to continue.
 
 ![KYC-13](https://nauticus.exchange/help/images/Exchange/KYC-13.png)
 
-21. After confirming once more that you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
+17. After confirming once more that you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
 
 ![KYC-15](https://nauticus.exchange/help/images/Exchange/KYC-15.png)
 
-22. After the images are uploaded and these steps are complete you will land on a Submission Confirmation Page like this:
+18. After the images are uploaded and these steps are complete you will land on a Submission Confirmation Page like this:
 
 ![KYC-21](https://nauticus.exchange/help/images/Exchange/KYC-21.png)
 
-23. Congratulations, you’ve almost made it through! Whew!
+19. Congratulations, you’ve almost made it through! Whew!
 
 At this point you may wish to take a quick walk or make yourself a cup of tea.
 
