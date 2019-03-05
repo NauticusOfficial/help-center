@@ -86,13 +86,15 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 ![KYC11](https://nauticus.exchange/help/images/Exchange/KYC11.png)
 
-12. The next image is filled will valuable tips and information that will help you to have a successful KYC approval. Please pay close attention for the best chance to have a successful approavl the first time through.
+12. The next image is filled will valuable tips and information that will help you to have a successful approvall. Please pay close attention for the best chance to have a successful approval the first time through.
 
 ![KYC12](https://nauticus.exchange/help/images/Exchange/KYC-12.png)
 
+13. Wehn your ID is ready please tick the box as shown in the next image and click to continue.
+
+![KYC13](https://nauticus.exchange/help/images/Exchange/KYC13.png)
 
 
-![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
 
 ![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
 
