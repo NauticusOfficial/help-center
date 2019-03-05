@@ -76,7 +76,17 @@ Under Australian law a “Sole Trader” is an individual who runs a business (_
 
 ![KYC09](https://nauticus.exchange/help/images/Exchange/KYC09.png)
 
-10.
+10. Next you land at the  following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. 
+
+Driver's License is the next best choice, with Government  issued ID cards in languages "other than English" to be selected as a last resort.
+
+![KYC10](https://nauticus.exchange/help/images/Exchange/KYC10.png)
+
+
+
+![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
+
+![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
 
 ![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
 
