@@ -86,9 +86,11 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 ![KYC11](https://nauticus.exchange/help/images/Exchange/KYC11.png)
 
+12. The next image is filled will valuable tips and information that will help you to have a successful KYC approval. Please pay close attention for the best chance to have a successful approavl the first time through.
+
+![KYC12](https://nauticus.exchange/help/images/Exchange/KYC-12.png)
 
 
-![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
 
 ![KYC-7](https://nauticus.exchange/help/images/Exchange/KYC-7.png)
 
@@ -98,9 +100,6 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 ![KYC-8](https://nauticus.exchange/help/images/Exchange/KYC-8.png)
 
-7. The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
-
-![KYC-9](https://nauticus.exchange/help/images/Exchange/KYC-9.png)
 
 8. Take a photo of the profile page of your passport on a flat surface.  Make sure the image is well lit and the photo isn’t blurry. If you have a Driver's License, take photos of the front and the back. Make sure you don’t get  a reflection from the flash.
 
