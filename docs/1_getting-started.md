@@ -61,7 +61,12 @@ Under Australian law a “Sole Trader” is an individual who runs a business (_
 ![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
 
 
-![KYC-4](https://nauticus.exchange/help/images/Exchange/KYC-4.png)
+
+6.  In the next screen please indicate the source of your  funding.
+
+![KYC06](https://nauticus.exchange/help/images/Exchange/KYC06.png)
+
+
 
 ![KYC-5](https://nauticus.exchange/help/images/Exchange/KYC-5.png)
 
