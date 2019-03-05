@@ -88,7 +88,7 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 12. The next image is filled will valuable tips and information that can help you have a successful approval the first time through.
 
-![KYC12](https://nauticus.exchange/help/images/Exchange/KYC-12.png)
+![KYC12](https://nauticus.exchange/help/images/Exchange/KYC12.png)
 
 13. When your ID is ready please tick the box as shown in the next image and click to continue.
 
