@@ -37,9 +37,9 @@ Here’s what you need to do:
 
 ![KYC02](https://nauticus.exchange/help/images/Exchange/KYC02.png)
 
-3. You’ll end up on this page. Fill out the information requested.
+3. You’ll end up on this page. Please kindly fill out the information requested.
 
-![KYC-2](https://nauticus.exchange/help/images/Exchange/KYC-2.png)
+![KYC03](https://nauticus.exchange/help/images/Exchange/KYC03.png)
 
 Notes:
 
