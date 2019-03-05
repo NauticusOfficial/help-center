@@ -78,9 +78,9 @@ Under Australian law a “Sole Trader” is an individual who runs a business (_
 
 10. Next you land at the  following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. 
 
-Driver's License is the next best choice, with Government  issued ID cards in languages "other than English" to be selected as a last resort.
-
 ![KYC10](https://nauticus.exchange/help/images/Exchange/KYC10.png)
+
+Driver's License is the next best choice, with Government  issued ID cards in languages "other than English" to be selected as a last resort.
 
 11. The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
 
