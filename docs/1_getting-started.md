@@ -100,7 +100,7 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 15. When your selfie is ready please tick the box as shown in the next image and click to continue.
 
-![KYC13](https://nauticus.exchange/help/images/Exchange/KYC13.png)
+![KYC15](https://nauticus.exchange/help/images/Exchange/KYC15.png)
 
 
 
