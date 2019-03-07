@@ -35,7 +35,7 @@ Here’s what you need to do:
 
 2. Choose whether you want to be verified as an ‘Individual’ or as a  representative of a ‘Business’. If you select ‘Business’ you will need  to fill out a form and email it in. The rest of this guide only applies  if you select ‘Individual’.
 
-![KYC02](https://nauticus.exchange/help/images/Exchange/KYC02.png)
+![KYC02b](https://nauticus.exchange/help/images/Exchange/KYC02b.png)
 
 3. You’ll then land on this page. Please kindly fill out the information requested.
 
