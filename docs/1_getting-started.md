@@ -35,6 +35,10 @@ Here’s what you need to do:
 
 2. Choose whether you want to be verified as an ‘Individual’ or as a  representative of a ‘Business’. If you select ‘Business’ you will need  to fill out a form and email it in. The rest of this guide only applies  if you select ‘Individual’.
 
+**Note** Under Australian law a *“Sole Trader”* is an individual who runs a business (_‘trading’ in this sense does not refer to crypto trading_).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
+
+
+
 ![KYC02b](https://nauticus.exchange/help/images/Exchange/KYC02b.png)
 
 3. You’ll then land on this page. Please kindly fill out the information requested.
@@ -44,81 +48,98 @@ Here’s what you need to do:
 Notes:
 
 * Fill in your Date of Birth in the Australian/UK format with the day first, and then the month.
+
 * If you don’t live in an apartment or unit, you can leave the ‘Unit’ number blank.
+
 * Fill in your **City** and where it says “City or Suburb” *(Suburb is an Australian address feature)*
+
 * If  you have an unusual address that doesn’t quite fit with the structure  of this form, please ensure you write down all of the relevant parts of  your address somewhere within the form. Our staff can fix it later as  long as your entire address is there somewhere.
 
-4. The next screen asks if you’re a “Sole Trader.”
-
-![KYC04](https://nauticus.exchange/help/images/Exchange/KYC04.png)
-
-Under Australian law a “Sole Trader” is an individual who runs a business (_‘trading’ in this sense does not refer to crypto trading_).  “Sole Traders” have an Australian Business Number and put aside tax to  pay at the end of each financial year. So if you aren’t Australian and  don’t have an ABN select ‘No’.
 
 ***Next up is a series of KYC/AML required questions. Please fill them out as accurately as you can.***
 
-5. Next  please provide a reason for opening the account.
+4. Next  please provide a reason for opening the account.
 
 ![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
 
-6. Then you are asked to please indicate the source of your funding.
+5. Then you are asked to please indicate the source of your funding.
 
 ![KYC06](https://nauticus.exchange/help/images/Exchange/KYC06.png)
 
-7. Next you will be asked about your employment status.
+6. Next you will be asked about your employment status.
 
 ![KYC07](https://nauticus.exchange/help/images/Exchange/KYC07.png)
 
-8. Next you will be asked to provide your primary country of citizenship.
+7. Next you will be asked to provide your primary country of citizenship.
 
 ![KYC08](https://nauticus.exchange/help/images/Exchange/KYC08.png)
 
-9. Then kindly indicate the country where you have a valid ID.
+8. Then kindly indicate the country where you have a valid ID.
+
 
 ![KYC09](https://nauticus.exchange/help/images/Exchange/KYC09.png)
 
-10. Next you land at the  following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. 
+
+
+9. Next you land at the  following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. 
 
 ![KYC10](https://nauticus.exchange/help/images/Exchange/KYC10.png)
 
 Driver's License is the next best choice, with Government  issued ID cards in languages "other than English" to be selected as a last resort.
 
-11. The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
+
+
+10. The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
 
 ![KYC11](https://nauticus.exchange/help/images/Exchange/KYC11.png)
 
-12. The next image is filled will valuable tips and information that can help you have a successful approval the first time through.
+
+
+11. The next image is filled will valuable tips and information that can help you have a successful approval the first time through.
 
 ![KYC12](https://nauticus.exchange/help/images/Exchange/KYC12.png)
 
-13. When your ID is ready please tick the box as shown in the next image and click to continue.
+
+
+12. When your ID is ready please tick the box as shown in the next image and click to continue.
 
 ![KYC13](https://nauticus.exchange/help/images/Exchange/KYC13.png)
 
-14. Next we are provided with more helpful tips and information for successful selfies.
+
+
+13. Next we are provided with more helpful tips and information for successful selfies.
 
 ![KYC14](https://nauticus.exchange/help/images/Exchange/KYC14.png)
 
-15. When your selfie is ready please tick the box as shown in the next image and click to continue.
+
+
+14. When your selfie is ready please tick the box as shown in the next image and click to continue.
 
 ![KYC15](https://nauticus.exchange/help/images/Exchange/KYC15.png)
 
-16. Now we are presented with a review of the data entered and the chance to make any needed corrections before continuing.
+
+
+15. Now we are presented with a review of the data entered and the chance to make any needed corrections before continuing.
 
 ![KYC16](https://nauticus.exchange/help/images/Exchange/KYC16.png)
+
+
 
 When everything looks correct please click to continue.
 
 ![KYC-13](https://nauticus.exchange/help/images/Exchange/KYC-13.png)
 
-17. After confirming once more that you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
+
+
+16. After confirming once more that you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
 
 ![KYC-15](https://nauticus.exchange/help/images/Exchange/KYC-15.png)
 
-18. After the images are uploaded and these steps are complete you will land on a Submission Confirmation Page like this:
+17. After the images are uploaded and these steps are complete you will land on a Submission Confirmation Page like this:
 
 ![KYC-21](https://nauticus.exchange/help/images/Exchange/KYC-21.png)
 
-19. Congratulations, you’ve almost made it through! Whew!
+18. Congratulations, you’ve almost made it through! Whew!
 
 At this point you may wish to take a quick walk or make yourself a cup of tea.
 
