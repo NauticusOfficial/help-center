@@ -100,9 +100,19 @@ When everything looks correct please click to continue.
 
 
 
-10. Browse to your Passport (or other ID) image and select the confirm.
+10. Browse to your Passport (or other ID) image and select then click to confirm.
 
 ![KYCa](https://nauticus.exchange/help/images/Exchange/KYCa.png)
+
+
+
+11. Then browse to your Selfie image and select then click to confirm.
+
+![KYCb](https://nauticus.exchange/help/images/Exchange/KYCb.png)
+
+
+
+
 
 
 
