@@ -58,26 +58,23 @@ Notes:
 
 ***Next up is a series of KYC/AML required questions. Please fill them out as accurately as you can.***
 
-4. Next  please provide a reason for opening the account.
+4. Next you will be asked about your employment status.
+
+![KYC07](https://nauticus.exchange/help/images/Exchange/KYC07.png)
+
+5. Next you will be asked to provide your primary country of citizenship and which country provides your valid ID.
+
+![KYC08](https://nauticus.exchange/help/images/Exchange/KYC08.png)
+
+
+
+1. Next  please provide a reason for opening the account.
 
 ![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
 
 5. Then you are asked to please indicate the source of your funding.
 
 ![KYC06](https://nauticus.exchange/help/images/Exchange/KYC06.png)
-
-6. Next you will be asked about your employment status.
-
-![KYC07](https://nauticus.exchange/help/images/Exchange/KYC07.png)
-
-7. Next you will be asked to provide your primary country of citizenship.
-
-![KYC08](https://nauticus.exchange/help/images/Exchange/KYC08.png)
-
-8. Then kindly indicate the country where you have a valid ID.
-
-
-![KYC09](https://nauticus.exchange/help/images/Exchange/KYC09.png)
 
 
 
