@@ -66,6 +66,12 @@ Notes:
 
 ![KYC08](https://nauticus.exchange/help/images/Exchange/KYC08.png)
 
+6. Next you land at the  following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. 
+
+![KYC10](https://nauticus.exchange/help/images/Exchange/KYC10.png)
+
+Driver's License is the next best choice, with Government  issued ID cards in languages "other than English" to be selected as a last resort.
+
 
 
 1. Next  please provide a reason for opening the account.
@@ -78,11 +84,7 @@ Notes:
 
 
 
-9. Next you land at the  following screen which asks you to choose  which ID type you wish to upload. If you have a Passport, select this  option as the success rate for our automated system is much higher than  with other ID types. 
 
-![KYC10](https://nauticus.exchange/help/images/Exchange/KYC10.png)
-
-Driver's License is the next best choice, with Government  issued ID cards in languages "other than English" to be selected as a last resort.
 
 
 
