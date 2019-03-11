@@ -72,6 +72,10 @@ Notes:
 
 Driver's License is the next best choice, with Government  issued ID cards in languages "other than English" to be selected as a last resort.
 
+Be sure to read carefully through the success tips, then when you feel sure you are ready please tick the box at the bottom and click to continue.
+
+![KYC13](https://nauticus.exchange/help/images/Exchange/KYC13.png)
+
 
 
 1. Next  please provide a reason for opening the account.
@@ -88,21 +92,11 @@ Driver's License is the next best choice, with Government  issued ID cards in la
 
 
 
-10. The system will then prompt you to find your passport in whichever  drawer you’ve hidden it in, and to write out your ‘selfie sign’ on a  blank piece of paper. Using a thick marker, write the letters NTS and  today’s date (the date format should be  day-day/month-month/year-year-year-year).
-
-![KYC11](https://nauticus.exchange/help/images/Exchange/KYC11.png)
-
-
-
-11. The next image is filled will valuable tips and information that can help you have a successful approval the first time through.
-
-![KYC12](https://nauticus.exchange/help/images/Exchange/KYC12.png)
-
 
 
 12. When your ID is ready please tick the box as shown in the next image and click to continue.
 
-![KYC13](https://nauticus.exchange/help/images/Exchange/KYC13.png)
+
 
 
 
