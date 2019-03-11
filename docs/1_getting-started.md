@@ -94,6 +94,20 @@ When everything looks correct please click to continue.
 
 
 
+9. Here we land on the NETVERIFY page to begin the process of uploading our documents.
+
+![KYC-15](https://nauticus.exchange/help/images/Exchange/KYC-15.png)
+
+
+
+10. Browse to your Passport (or other ID) image and select the confirm.
+
+![KYCa](https://nauticus.exchange/help/images/Exchange/KYCa.png)
+
+
+
+
+
 1. Next  please provide a reason for opening the account.
 
 ![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
@@ -112,9 +126,7 @@ When everything looks correct please click to continue.
 
 
 
-16. After confirming once more that you have your photos ready (you’d be  surprised how many people DON’T) you’ll end up on our third party  provider’s site where you can upload the pictures.
-
-![KYC-15](https://nauticus.exchange/help/images/Exchange/KYC-15.png)
+16. 
 
 17. After the images are uploaded and these steps are complete you will land on a Submission Confirmation Page like this:
 
