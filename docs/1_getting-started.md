@@ -78,6 +78,16 @@ Be sure to read carefully through the success tips, then when you feel sure you 
 
 
 
+7. Now we are presented with a review of the data entered and the chance to make any needed corrections before continuing.
+
+![KYC16](https://nauticus.exchange/help/images/Exchange/KYC16.png)
+
+
+
+When everything looks correct please click to continue.
+
+
+
 1. Next  please provide a reason for opening the account.
 
 ![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
@@ -92,35 +102,7 @@ Be sure to read carefully through the success tips, then when you feel sure you 
 
 
 
-
-
-12. When your ID is ready please tick the box as shown in the next image and click to continue.
-
-
-
-
-
-13. Next we are provided with more helpful tips and information for successful selfies.
-
-![KYC14](https://nauticus.exchange/help/images/Exchange/KYC14.png)
-
-
-
-14. When your selfie is ready please tick the box as shown in the next image and click to continue.
-
-![KYC15](https://nauticus.exchange/help/images/Exchange/KYC15.png)
-
-
-
-15. Now we are presented with a review of the data entered and the chance to make any needed corrections before continuing.
-
-![KYC16](https://nauticus.exchange/help/images/Exchange/KYC16.png)
-
-
-
-When everything looks correct please click to continue.
-
-![KYC-13](https://nauticus.exchange/help/images/Exchange/KYC-13.png)
+15. 
 
 
 
