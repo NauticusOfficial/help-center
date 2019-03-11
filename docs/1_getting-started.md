@@ -112,6 +112,10 @@ When everything looks correct please click to continue.
 
 
 
+12. Your images are scanned to verify the quality is sufficient to proceed, and when everything is OK you will receive the following confirmation screen.
+
+![KYCc](https://nauticus.exchange/help/images/Exchange/KYCc.png)
+
 
 
 
