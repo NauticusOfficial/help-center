@@ -88,6 +88,12 @@ When everything looks correct please click to continue.
 
 
 
+8. For the next section you will need the photos of your ID and Selfie you have prepared.
+
+![KYC15](https://nauticus.exchange/help/images/Exchange/KYC15.png)
+
+
+
 1. Next  please provide a reason for opening the account.
 
 ![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
