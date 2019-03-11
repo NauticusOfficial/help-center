@@ -118,35 +118,9 @@ When everything looks correct please click to continue.
 
 
 
+Congratulations, you’ve almost made it through! Whew!
 
 
-
-
-1. Next  please provide a reason for opening the account.
-
-![KYC05](https://nauticus.exchange/help/images/Exchange/KYC05.png)
-
-5. Then you are asked to please indicate the source of your funding.
-
-![KYC06](https://nauticus.exchange/help/images/Exchange/KYC06.png)
-
-
-
-
-
-
-
-15. 
-
-
-
-16. 
-
-17. After the images are uploaded and these steps are complete you will land on a Submission Confirmation Page like this:
-
-![KYC-21](https://nauticus.exchange/help/images/Exchange/KYC-21.png)
-
-18. Congratulations, you’ve almost made it through! Whew!
 
 At this point you may wish to take a quick walk or make yourself a cup of tea.
 
